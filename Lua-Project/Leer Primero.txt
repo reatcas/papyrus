@@ -1,0 +1,19 @@
+	La forma LogIn debe modificarse
+	para usarlo con un gestor SQL
+	sin embargo, se provee funcionamiento local
+	mediante archivos de texto.
+Para que funcione la forma LogIn:
+
+	1. Compilar el proyecto
+	2. Copiar la carpeta UsrData en /build/classes/
+	3. Ejecutar
+
+Usuario: user
+Contraseña: admin
+
+
+
+Nota: No se garantiza completa funcionalidad, por tanto
+	este es un proyecto con fines ilustrativos
+	sean libres de usar o modificar estos códigos
+	para otros proyectos
